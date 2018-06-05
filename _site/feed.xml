@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-06-04T20:10:19-04:00</updated><id>http://localhost:4000/</id><title type="html">Alex Haldeman</title><subtitle>Simple Jekyll theme for your blog by Taylan Tatlı</subtitle><entry><title type="html">LED Christmas Tree</title><link href="http://localhost:4000/led-christmas-tree/" rel="alternate" type="text/html" title="LED Christmas Tree" /><published>2018-06-04T00:00:00-04:00</published><updated>2018-06-04T00:00:00-04:00</updated><id>http://localhost:4000/led-christmas-tree</id><content type="html" xml:base="http://localhost:4000/led-christmas-tree/">&lt;section id=&quot;table-of-contents&quot; class=&quot;toc&quot;&gt;
+  &lt;header&gt;
+    &lt;h3&gt;&lt;i class=&quot;fa fa-book&quot;&gt;&lt;/i&gt; Contents&lt;/h3&gt;
+  &lt;/header&gt;
+&lt;div id=&quot;drawer&quot;&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#overview&quot; id=&quot;markdown-toc-overview&quot;&gt;Overview&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#materials&quot; id=&quot;markdown-toc-materials&quot;&gt;Materials&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#hardware&quot; id=&quot;markdown-toc-hardware&quot;&gt;Hardware&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#arduino-code&quot; id=&quot;markdown-toc-arduino-code&quot;&gt;Arduino Code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#angular-dashboard&quot; id=&quot;markdown-toc-angular-dashboard&quot;&gt;Angular Dashboard&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;/section&gt;
+&lt;!-- /#table-of-contents --&gt;
+
+&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+&lt;h2 id=&quot;materials&quot;&gt;Materials&lt;/h2&gt;
+&lt;h2 id=&quot;hardware&quot;&gt;Hardware&lt;/h2&gt;
+&lt;h2 id=&quot;arduino-code&quot;&gt;Arduino Code&lt;/h2&gt;
+&lt;h2 id=&quot;angular-dashboard&quot;&gt;Angular Dashboard&lt;/h2&gt;</content><author><name></name></author><category term="LED" /><category term="Arduino" /><category term="Angular" /><summary type="html">Christmas tree made of LEDs controlled by a web dashboard</summary></entry><entry><title type="html">First Blog Post</title><link href="http://localhost:4000/first-blog-post/" rel="alternate" type="text/html" title="First Blog Post" /><published>2018-06-04T00:00:00-04:00</published><updated>2018-06-04T00:00:00-04:00</updated><id>http://localhost:4000/first-blog-post</id><content type="html" xml:base="http://localhost:4000/first-blog-post/"></content><author><name></name></author><category term="first post" /><category term="new blog" /><summary type="html">First blog post...</summary></entry></feed>
