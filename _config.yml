@@ -30,7 +30,7 @@ linkedin: alexander-haldeman-09a7aa63
 # paginate_path: "blog/:num/"
 
 # Gems
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-feed
   - jekyll-sitemap
