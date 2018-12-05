@@ -6,7 +6,7 @@ date: 2018-06-04
 ---
 ![Logo]({{ site.url }}/{{ site.picture }}){: .selfie}
 
-I am a Software Engineer currently working at JP Morgan. When I am not working, I like to work on electronics projects, hike, and travel.
+I am a Software Engineer working in financial services. When I am not working, I like to work on electronics projects, hike, and travel.
 
 
 ### Blog Theme
